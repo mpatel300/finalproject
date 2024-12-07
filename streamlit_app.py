@@ -4,9 +4,9 @@ import streamlit as st
 st.title(":red[YouTube] Statistics")
 
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Go to section:", ["Test", "Global Viewership Data", "Categories By the Popularity", "Viewership to Subscriber Ratio by Country", "Section 4"])
+page = st.sidebar.radio("Go to section:", ["**Overview**", "**Global Viewership Data**", "**Categories By the Popularity**", "**Viewership Subscribers**", "**Categories by Average Monthly Earning**"])
 
-if page == "Test":
+if page == "Overview":
     st.write("Welcome to my app, your ultimate companion for YouTube growth and insights! This app is designed to empower content creators by providing in-depth analytics and actionable insights. Whether you're just starting your YouTube journey or looking to take your channel to the next level.")
 
 
@@ -19,13 +19,13 @@ elif page == "Categories By the Popularity":
     st.image("Categories By the Popularity.png", caption="Categories By the Popularity", use_column_width=True)
     st.write("With the popularity")
 
-elif page == "Viewership to Subscriber Ratio by Country":
+elif page == "Viewership Subscribers":
     st.image("https://picsum.photos/800/402", caption="describe the photo by text here", use_column_width=True)
     st.write("""
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.33333333333
     """)
 
-elif page == "Section 4":
+elif page == "Categories by Average Monthly Earning":
     st.image("https://picsum.photos/800/403", caption="describe the photo by text here", use_column_width=True)
     st.write("""
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.444444444444444
