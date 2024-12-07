@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the page
-st.title("YouTube Statistics")
+st.title(":redYou:whiteTube Statistics")
 
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to section:", ["Global Viewership Data", "Section 2", "Section 3", "Section 4"])
@@ -11,7 +11,7 @@ if page == "Global Viewership Data":
     st.image("Map.png", caption="Global Viewership Data (World-Wide)", use_column_width=True)
     st.write("This is the World Global Viewship Data, in this data you can find the following ...")
 
-elif page == "Section 2":
+elif page == "Categories By the Popularity":
     st.image("https://picsum.photos/800/401", caption="describe the photo by text here", use_column_width=True)
     st.write("""
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.222222222222
