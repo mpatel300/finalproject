@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the page
-st.title(":red[You]:white[Tube Statistics]")
+st.title(":red[YouTube] Statistics")
 
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to section:", ["Global Viewership Data", "Section 2", "Section 3", "Section 4"])
