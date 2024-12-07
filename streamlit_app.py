@@ -11,15 +11,7 @@ if page == "**Overview**":
     st.image("background.1.png", use_column_width=True)
 
 elif page == "**Global Viewership Data**":
-    st.write("tab provides a comprehensive look at YouTube audience trends across the globe. This feature is perfect for creators who want to expand their reach and create content that resonates with an international audience."
-
-"What You’ll Discover:"
-
-"Regional Trends: See which types of content perform best in different countries and regions.
-Audience Insights: Understand global viewer preferences, habits, and engagement patterns.
-Growth Opportunities: Identify untapped markets and tailor your content to attract diverse audiences worldwide.
-Whether you're planning to localize your content or broaden your appeal, this tab equips you with the insights to grow your channel on a global scale.
-")
+    st.write("tab provides a comprehensive look at YouTube audience trends across the globe. This feature is perfect for creators who want to expand their reach and create content that resonates with an international audience. What You’ll Discover, Regional Trends: See which types of content perform best in different countries and regions.Audience Insights: Understand global viewer preferences, habits, and engagement patterns. Growth Opportunities: Identify untapped markets and tailor your content to attract diverse audiences worldwide.Whether you're planning to localize your content or broaden your appeal, this tab equips you with the insights to grow your channel on a global scale.")
     st.image("Global Viewership Data.png", caption="Global Viewership Data (World-Wide)", use_column_width=True)
     st.write("This is the World Global Viewship Data, in this data you can find the following ...")
 
