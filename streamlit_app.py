@@ -13,9 +13,9 @@ if page == "Global Viewership Data":
 
 elif page == "Categories By the Popularity":
     st.image("Categories By the Popularity.png", caption="Categories By the Popularity", use_column_width=True)
-    st.write("With the popularity ")
+    st.write("With the popularity")
 
-elif page == "Section 3":
+elif page == "Viewership to Subscriber Ratio by Country":
     st.image("https://picsum.photos/800/402", caption="describe the photo by text here", use_column_width=True)
     st.write("""
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.33333333333
