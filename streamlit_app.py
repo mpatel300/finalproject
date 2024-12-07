@@ -11,5 +11,4 @@ page = st.sidebar.radio("Go to section:", ["Global Viewership Data", "Section 2"
 
 if page == "Global Viewership Data":
     st.image("Map.png", caption="Global Viewership Data (World-Wide)", use_column_width=True)
-    st.write(" This is the World Global Viewship Data, in this data you can find the following ...
-        ")
+    st.write("This is the World Global Viewship Data, in this data you can find the following ...")
