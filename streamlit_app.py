@@ -7,7 +7,7 @@ st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to section:", ["**Overview**", "**Global Viewership Data**", "**Categories By the Popularity**", "**Viewership Subscribers**", "**Categories by Average Monthly Earning**"])
 
 if page == "**Overview**":
-    st.write("Welcome to my app, your ultimate companion for YouTube growth and insights! This app is designed to empower content creators by providing in-depth analytics and actionable insights. Whether you're just starting your YouTube journey or looking to take your channel to the next level.")
+    st.write("Welcome to the ultimate YouTube Statistic app, your ultimate companion for YouTube growth and insights! This app is designed to empower content creators by providing in-depth analytics and actionable insights. Whether you're just starting your YouTube journey or looking to take your channel to the next level.")
     st.image("background.1.png", use_column_width=True)
 
 elif page == "**Global Viewership Data**":
