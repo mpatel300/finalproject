@@ -11,7 +11,7 @@ if page == "**Overview**":
     st.image("background.1.png", use_column_width=True)
 
 elif page == "**Global Viewership Data**":
-    st.write("tab provides a comprehensive look at YouTube audience trends across the globe. This feature is perfect for creators who want to expand their reach and create content that resonates with an international audience.
+    st.write("tab provides a comprehensive look at YouTube audience trends across the globe. This feature is perfect for creators who want to expand their reach and create content that resonates with an international audience."
 
 What You’ll Discover:
 
