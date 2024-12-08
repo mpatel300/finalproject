@@ -18,9 +18,9 @@ elif page == "Global Viewership Data":
     
     st.write("""
     **What You’ll Discover:**
-    - Regional Trends: See which types of content perform best in different countries and regions.
-    - Audience Insights: Understand global viewer preferences, habits, and engagement patterns.
-    - Growth Opportunities: Identify untapped markets and tailor your content to attract diverse audiences worldwide.
+    - **Regional Trends:** See which types of content perform best in different countries and regions.
+    - **Audience Insights:** Understand global viewer preferences, habits, and engagement patterns.
+    - **Growth Opportunities:** Identify untapped markets and tailor your content to attract diverse audiences worldwide.
     
       Whether you're planning to localize your content or broaden your appeal, this tab equips you with the insights to grow your channel on a global scale.  
     """)
@@ -33,9 +33,9 @@ elif page == "Categories By the Popularity":
 
     st.write("""
     **What You’ll Find:**
-    - Top Performing Categories: Discover the most popular niches and topics driving engagement and growth on YouTube.
-    - Insights for Strategy: Understand which categories resonate with viewers and how you can tailor your content to match their interests.
-    - Trend Spotting: Stay ahead of the curve by identifying rising trends and emerging content themes.
+    - **Top Performing Categories:** Discover the most popular niches and topics driving engagement and growth on YouTube.
+    - **Insights for Strategy:** Understand which categories resonate with viewers and how you can tailor your content to match their interests.
+    - **Trend Spotting:** Stay ahead of the curve by identifying rising trends and emerging content themes.
     
         Whether you're brainstorming new video ideas or refining your niche, this tab is your gateway to staying competitive and relevant in the ever-evolving YouTube landscape.
     """)
