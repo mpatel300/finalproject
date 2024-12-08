@@ -25,8 +25,17 @@ elif page == "Global Viewership Data":
     """)
 
 elif page == "Categories By the Popularity":
+
+    st.image("This page gives you a clear view of which YouTube content categories are trending and performing well. This feature is perfect for creators looking to align their content with audience preferences and capitalize on popular trends.")
     st.image("Categories By the Popularity.png", caption="Categories By the Popularity", use_column_width=True)
-    st.write("With the popularity")
+    st.write("""
+    **What You’ll Find:**
+    - **Top Performing Categories:** Discover the most popular niches and topics driving engagement and growth on YouTube.
+    - **Insights for Strategy:** Understand which categories resonate with viewers and how you can tailor your content to match their interests.
+    - **Trend Spotting:** Stay ahead of the curve by identifying rising trends and emerging content themes.
+    
+    Whether you're brainstorming new video ideas or refining your niche, this tab is your gateway to staying competitive and relevant in the ever-evolving YouTube landscape.
+    """)
 
 elif page == "Viewership Subscribers":
     st.image("https://picsum.photos/800/402", caption="describe the photo by text here", use_column_width=True)
