@@ -49,7 +49,14 @@ elif page == "Viewership Subscribers":
     st.image("Viewership Subscribers.5.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.6.png", caption="describe the photo by text here", use_column_width=True)
 
-
+    st.write("""
+    **What You’ll Learn:**
+    - **Viewership Trends:** Analyze how views translate into subscriber growth across different content types.
+    - **Engagement Insights:** Discover what keeps viewers watching and encourages them to subscribe to your channel.
+    - **Optimization Tips:** Get data-driven recommendations to improve your content strategy and boost subscriber numbers.
+    
+        Whether you're aiming to grow your channel or retain your audience, this tab gives you the tools to turn casual viewers into a thriving community of subscribers.
+    """)
 
 
 
