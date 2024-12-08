@@ -4,7 +4,7 @@ import streamlit as st
 st.title(":red[YouTube] Statistics")
 
 st.sidebar.title("Navigation")
-page = st.sidebar.selectbox("Go to section:", ["Overview", "Global Viewership Data", "Categories By the Popularity", "Viewership Subscribers", "Categories by Average Monthly Earning"])
+page = st.sidebar.selectbox("Open the Dropdown menu to select your tab", ["Overview", "Global Viewership Data", "Categories By the Popularity", "Viewership Subscribers", "Categories by Average Monthly Earning"])
 
 #page = st.sidebar.radio("Go to section:", ["**Overview**", "**Global Viewership Data**", "**Categories By the Popularity**", "**Viewership Subscribers**", "**Categories by Average Monthly Earning**"])
 
