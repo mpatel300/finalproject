@@ -45,14 +45,9 @@ elif page == "Viewership Subscribers":
     st.image("Viewership Subscribers.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.2.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.3.png", caption="describe the photo by text here", use_column_width=True)
-    st.image("Viewership Subscribers.4png", caption="describe the photo by text here", use_column_width=True)
+    st.image("Viewership Subscribers.4.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.5.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.6.png", caption="describe the photo by text here", use_column_width=True)
-
-
-
-
-
 
 
 
