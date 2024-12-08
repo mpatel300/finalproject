@@ -61,8 +61,21 @@ elif page == "Viewership Subscribers":
 
 
 
+
 elif page == "Categories by Average Monthly Earning":
-    st.image("https://picsum.photos/800/403", caption="describe the photo by text here", use_column_width=True)
+    st.write("This page is your go-to resource for understanding the revenue potential across different YouTube niches. This feature is ideal for creators aiming to maximize their monetization strategy and align their content with high-earning categories.")
+    st.image("Top 10 Categories By Average Monthly Earning.png", caption="describe the photo by text here", use_column_width=True)
+    st.image("Top 10 Categories By Average Monthly Earning.2.png", caption="describe the photo by text here", use_column_width=True)
+
     st.write("""
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.444444444444444
+    **What You’ll Discover:**
+    - **Earnings Insights by Category:** Explore which content types generate the highest average monthly revenue.
+    - **Strategic Content Planning:** Identify profitable niches and adapt your content to capitalize on lucrative opportunities.
+    - **Monetization Potential:** Understand how category performance ties to sponsorships, ads, and viewer engagement
+    
+        Whether you're optimizing your current channel or deciding on a niche to focus on, this tab equips you with the knowledge to make informed, revenue-driven decisions for your YouTube journey.  
     """)
+
+
+
+
