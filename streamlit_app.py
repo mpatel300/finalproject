@@ -62,7 +62,7 @@ elif page == "Viewership Subscribers":
 
 elif page == "Categories by Average Monthly Earning":
     st.write("This page is your go-to resource for understanding the revenue potential across different YouTube niches. This feature is ideal for creators aiming to maximize their monetization strategy and align their content with high-earning categories.")
-    #st.image("Top 10 Categories By Average Monthly Earning.png", caption="describe the photo by text here", use_column_width=True)
+    st.image("Top 10 Categories By Average Monthly Earning.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Top 10 Categories By Average Monthly Earning 2.png", caption="describe the photo by text here", use_column_width=True)
 
     st.write("""
