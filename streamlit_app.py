@@ -26,9 +26,8 @@ st.write("""
     """)
 
 elif page == "Categories By the Popularity":
-
     st.image("This page gives you a clear view of which YouTube content categories are trending and performing well. This feature is perfect for creators looking to align their content with audience preferences and capitalize on popular trends.")
-    st.image("Categories By the Popularity.png", caption="Categories By the Popularity", use_column_width=True)
+    st.image("Categories By the Popularity.1.png", caption="Categories By the Popularity", use_column_width=True)
 
 st.write("""
     **What You’ll Find:**
