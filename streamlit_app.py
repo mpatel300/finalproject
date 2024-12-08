@@ -15,7 +15,8 @@ if page == "Overview":
 elif page == "Global Viewership Data":
     st.write("This provides a comprehensive look at YouTube audience trends across the globe. This feature is perfect for creators who want to expand their reach and create content that resonates with an international audience. What You’ll Discover, Regional Trends: See which types of content perform best in different countries and regions.Audience Insights: Understand global viewer preferences, habits, and engagement patterns. Growth Opportunities: Identify untapped markets and tailor your content to attract diverse audiences worldwide.Whether you're planning to localize your content or broaden your appeal, this tab equips you with the insights to grow your channel on a global scale.")
     st.image("Global Viewership Data.png", caption="Global Viewership Data (World-Wide)", use_column_width=True)
-    st.write("""
+    
+st.write("""
     **What You’ll Discover:**
     - Regional Trends: See which types of content perform best in different countries and regions.
     - Audience Insights: Understand global viewer preferences, habits, and engagement patterns.
@@ -28,13 +29,14 @@ elif page == "Categories By the Popularity":
 
     st.image("This page gives you a clear view of which YouTube content categories are trending and performing well. This feature is perfect for creators looking to align their content with audience preferences and capitalize on popular trends.")
     st.image("Categories By the Popularity.png", caption="Categories By the Popularity", use_column_width=True)
-    st.write("""
+
+st.write("""
     **What You’ll Find:**
     - Top Performing Categories: Discover the most popular niches and topics driving engagement and growth on YouTube.
     - Insights for Strategy: Understand which categories resonate with viewers and how you can tailor your content to match their interests.
     - Trend Spotting: Stay ahead of the curve by identifying rising trends and emerging content themes.
     
-    Whether you're brainstorming new video ideas or refining your niche, this tab is your gateway to staying competitive and relevant in the ever-evolving YouTube landscape.
+        Whether you're brainstorming new video ideas or refining your niche, this tab is your gateway to staying competitive and relevant in the ever-evolving YouTube landscape.
     """)
 
 elif page == "Viewership Subscribers":
