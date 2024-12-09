@@ -48,7 +48,6 @@ elif page == "Categories By the Popularity":
 elif page == "Viewership Subscribers":
     st.write("This page provides valuable insights into the relationship between audience engagement and subscriber growth. This feature is essential for creators looking to understand their viewers better and convert them into loyal subscribers.")
     st.image("Viewership Subscribers.png", caption="describe the photo by text here", use_column_width=True)
-    st.image("Viewership Subscribers.2.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.3.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.4.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.5.png", caption="describe the photo by text here", use_column_width=True)
