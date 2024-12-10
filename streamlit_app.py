@@ -55,7 +55,8 @@ elif page == "Viewership Subscribers":
     st.image("Viewership Subscribers.4.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.5.png", caption="describe the photo by text here", use_column_width=True)
     st.image("Viewership Subscribers.6.png", caption="describe the photo by text here", use_column_width=True)
-
+    st.write("From the graphs above we can see that some of the key countries that have the highest subscribers per population, This is a key important detail as well as this is something that can help you grow your channel or give you a boost start if you are able to focus on things such as making videos in the native language to the respective country to lure there audience.")
+    
     st.write("""
     **What You’ll Learn:**
     - **Viewership Trends:** Analyze how views translate into subscriber growth across different content types.
