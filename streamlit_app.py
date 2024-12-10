@@ -50,9 +50,9 @@ elif page == "Categories By the Popularity":
 #Page Viewership Subscribers Code
 elif page == "Viewership Subscribers":
     st.write("This page provides valuable insights into the relationship between audience engagement and subscriber growth. This feature is essential for creators looking to understand their viewers better and convert them into loyal subscribers.")
-    st.image("Viewership Subscribers.png", caption="describe the photo by text here", use_column_width=True)
-    st.image("Viewership Subscribers.4.png", caption="describe the photo by text here", use_column_width=True)
-    st.image("Viewership Subscribers.5.png", caption="describe the photo by text here", use_column_width=True)
+    st.image("Viewership Subscribers.png", caption="Viewership Subscribers by Countries", use_column_width=True)
+    st.image("Viewership Subscribers.4.png", caption="Viewership Subscribers by Countries", use_column_width=True)
+    st.image("Viewership Subscribers.5.png", caption="Viewership Subscribers by Countries", use_column_width=True)
     st.write("From the graphs above we can see that some of the key countries that have the highest subscribers per population, This is a key important detail as well as this is something that can help you grow your channel or give you a boost start if you are able to focus on things such as making videos in the native language to the respective country to lure there audience.")
     
     st.write("""
