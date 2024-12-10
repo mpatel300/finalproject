@@ -34,7 +34,9 @@ elif page == "Categories By the Popularity":
     st.image("Categories By the Popularity.1.png", caption="Categories By the Popularity", use_column_width=True)
     st.image("Categories By the Popularity.2.png", caption="Categories By the Popularity", use_column_width=True)
     st.image("Categories By the Popularity.3.png", caption="Categories By the Popularity", use_column_width=True)
-
+    st.write("From the bar graph above we can see that certain categories such as sport and education will likely bring in more overall views in general, a key emphasis on certain categories may lead to a better performance of certain videos due to the larger market grab they have on the audience.")
+    
+    
     st.write("""
     **What You’ll Find:**
     - **Top Performing Categories:** Discover the most popular niches and topics driving engagement and growth on YouTube.
