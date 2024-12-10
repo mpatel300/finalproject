@@ -68,7 +68,7 @@ elif page == "Viewership Subscribers":
 #Page Categories by Average Monthly Earning
 elif page == "Categories by Average Monthly Earning":
     st.write("This page is your go-to resource for understanding the revenue potential across different YouTube niches. This feature is ideal for creators aiming to maximize their monetization strategy and align their content with high-earning categories.")
-    st.image("Monthly Earning.png", caption="describe the photo by text here", use_column_width=True)
+    st.image("Monthly Earning.png", caption="Monthly Earning by Category", use_column_width=True)
     st.write("From this bar graph we can see the monetary statistic from categories, while this may not be important to most people its important to remember that making a profit should be a metric to consider in the future, in this chart we can see that the entertainment category generates the most amount of money while music and people and blogs are followed shortly behind.")
 
     st.write("""
